@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Alen
+- 👀 I’m interested in Software Development and Software Testing
+- 🌱 I’m currently learning Java programming language, Data Structures & Algorithms and Software Testing techniques
+- :man_teacher: I’m looking for a mentor 
+- 📫 How to reach me:
+  - :e-mail: alimkhanovalen@gmail.com
+  - :iphone: +1 (647) 915 - 5893
